@@ -1,0 +1,2 @@
+# Safexminer
+Ok
